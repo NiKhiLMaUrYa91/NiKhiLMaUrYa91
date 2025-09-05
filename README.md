@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 👋 Hi, I'm Nikhil Maurya<br>🚀 Android Developer | Kotlin & Jetpack Compose | Java | DSA <br>📱 Passionate about building modern, scalable, and user-friendly mobile apps<br>💡 Experienced in Android SDK, MVVM, Firebase, and RESTful APIs<br>🛠️ Love solving problems with clean code & optimized solutions<br>🌱 Always exploring new tools, architectures, and best practices
 
 
